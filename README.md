@@ -9,14 +9,6 @@ Fit-AI is a beginner-friendly full-stack web application that predicts health ri
 - Robust Java Spring Boot backend managing API requests and database operations  
 - Stores user inputs and prediction history for future reference
 
-## Technologies Used
-
-- **Python** (scikit-learn) — AI model and prediction  
-- **Java** (Spring Boot) — Backend API and database integration  
-- **React.js** — Frontend user interface  
-- **MySQL** — Data storage  
-- **Git & GitHub** — Version control and collaboration
-
 
 ## Technology Stack
 
@@ -27,6 +19,7 @@ Fit-AI is a beginner-friendly full-stack web application that predicts health ri
 | Frontend UI                          | React.js             |
 | Database                             | MySQL / PostgreSQL   |
 | Version Control and Collaboration    | Git & GitHub         |
+
 
 
 ## Getting Started
